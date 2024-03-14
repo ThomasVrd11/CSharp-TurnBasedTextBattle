@@ -1,0 +1,15 @@
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.AssemblyInfoInputs.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.AssemblyInfo.cs
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.csproj.CoreCompileInputs.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.sourcelink.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/bin/Debug/net8.0/textbattle
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/bin/Debug/net8.0/textbattle.deps.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/bin/Debug/net8.0/textbattle.runtimeconfig.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/bin/Debug/net8.0/textbattle.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/bin/Debug/net8.0/textbattle.pdb
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/refint/textbattle.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.pdb
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/textbattle.genruntimeconfig.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-TurnBasedTextBattle/textbattle/obj/Debug/net8.0/ref/textbattle.dll
